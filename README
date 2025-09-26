@@ -1,1 +1,2 @@
-Hello world
+This is a simple java script program that filters pictures to make them more interesting! In particular this program iterates through an images pixels and makes a copy that has 
+a lower resulution, but the catch is that the pixels are changed into ASCII letters!
